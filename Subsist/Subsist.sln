@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsist", "Subsist.csproj", "{9B37DFF2-06F5-7732-BEDA-0CF624356FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsist.Editor", "Subsist.Editor.csproj", "{2BD0C888-3217-F183-44E8-969981093436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B37DFF2-06F5-7732-BEDA-0CF624356FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B37DFF2-06F5-7732-BEDA-0CF624356FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B37DFF2-06F5-7732-BEDA-0CF624356FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B37DFF2-06F5-7732-BEDA-0CF624356FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD0C888-3217-F183-44E8-969981093436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD0C888-3217-F183-44E8-969981093436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD0C888-3217-F183-44E8-969981093436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD0C888-3217-F183-44E8-969981093436}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
